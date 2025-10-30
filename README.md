@@ -6,4 +6,4 @@ A simple map for practicing pieray in Minecraft Speedrunning.
   - In that folder, right click `Pieray Practice x.x.x.zip` and select `Extract All`
   - After it finishes extracting, open the newly created folder, and drag the folder named `Pieray Practice Practice x.x.x` into the saves folder
   - Once finished, the zip folder and empty folder can be deleted
-  - *If the world isn't showing up in game, double check that the folder structure is `Pieray Practice Practice/` and NOT `Pieray Practice/Pieray Practice/`.*
+  - *If the world isn't showing up in game, double check that the folder structure is `Pieray Practice/` and NOT `Pieray Practice/Pieray Practice/`.*
